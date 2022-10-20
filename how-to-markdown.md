@@ -4,6 +4,7 @@
 
 - Go to [Lists](#Lists)
 - Go to [Checkbox](#Checkbox)
+- Go to [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 This is smaller than Level 1
