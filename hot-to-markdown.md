@@ -24,3 +24,11 @@ Thought we are done, but we just change the color ;)
   - CSS 
   - JavaScript
 - 
+
+
+## Checkbox 
+What I still need to learn
+
+- [ ] Italian
+- [ ] How to make a pizza neapolitana
+- [ ] understand wine
