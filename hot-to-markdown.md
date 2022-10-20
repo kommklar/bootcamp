@@ -13,4 +13,4 @@ Still getting smaller
 Keep going
 
 ###### Heading 6
-Thought we are done, but we just change the color and font now ;) 
+Thought we are done, but we just change the color ;)
