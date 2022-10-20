@@ -7,7 +7,6 @@
 - Go to [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-This is smaller than Level 1
 
 ### Heading Level 3 
 This is way smaller than Level 1 
